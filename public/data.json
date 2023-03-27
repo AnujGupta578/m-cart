@@ -1,0 +1,23 @@
+[
+{
+             "Name": "Vue",
+             "educator": "Roopashri"
+            },
+
+  
+          {
+             "Name": "React",
+             "educator": "Khalid"
+            },
+
+   
+   {
+             "Name": "Express",
+             "educator": "Prajila"
+            }
+    ,  
+       {
+             "Name": "Angular",
+             "educator": "Prabhakar"
+            }
+          ]
